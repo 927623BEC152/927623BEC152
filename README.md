@@ -43,19 +43,27 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishakannane&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nishakannan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishakannan&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishakannane&theme=radical" alt="GitHub Streak" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishakannan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishakannane&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Contribution Graph -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishakannan&theme=tokyo-night" />
+
 </p>
+
 
 ---
 

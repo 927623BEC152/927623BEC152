@@ -4,21 +4,20 @@
 ---
 
 ### 🚀 About Me  
-- 💻 Fullstack Java Developer | Backend + Frontend  
-- 🌱 Currently exploring **Web Development** and **System Design**  
-- 👯 Open to collaborate on **Java Projects & Web Apps**  
-- 💬 Ask me about **Java, DSA, Web Development**  
-- 📫 Reach me at: **nishakannane@gmail.com**  
+- 💻 ECE prefinal-year student driven by a passion for building innovative software solutions. 
+- 🌱 Currently exploring **Java** and **SQL**  
+- 👯 Open to collaborate on **Java Projects** 
+- 📫 Reach me at: **nishakannan@gmail.com**  
 - ⚡ Fun fact: I love solving real-world problems through code!  
 
 ---
 
 ### 🔭 Currently Working On  
-- 🚀 Java Fullstack Projects  
+- 🚀 Java Projects
 - 📘 DBMS & SQL Projects  
 
 ### 🌱 Currently Learning  
-- Web Development  
+- Java 
 - Data Structures & Algorithms  
 
 ---
@@ -26,42 +25,22 @@
 ### 🌐 Connect with me  
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="mailto:nishakannane@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" /></a>
+<a href="mailto:nishakannan@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
-
----
-### 📊 GitHub Stats  
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nishakannan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <!-- Languages -->
+ <img src="https://img.icons8.com/color/48/c-programming.png" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishakannan&hide_border=true&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishakannan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishakannan&theme=tokyo-night" />
-
+  <!-- Tools & IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
 
@@ -74,4 +53,4 @@
 
 ---
 
-⭐️ From [Nisha Kannan](https://github.com/nishakannane)  
+⭐️ From [Nisha K](https://github.com/nishakannan)  

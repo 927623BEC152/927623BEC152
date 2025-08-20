@@ -1,30 +1,69 @@
-
 <h1 align="center">Hi 👋, I'm Nisha Kannan</h1>
-<h3 align="center">A passionate Fullstack Java developer from India</h3>
+<h3 align="center">A passionate Fullstack Java Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=927623bec152&label=Profile%20views&color=0e75b6&style=flat" alt="927623bec152" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=927623bec152" alt="927623bec152" /></a> </p>
+### 🚀 About Me  
+- 💻 Fullstack Java Developer | Backend + Frontend  
+- 🌱 Currently exploring **Web Development** and **System Design**  
+- 👯 Open to collaborate on **Java Projects & Web Apps**  
+- 💬 Ask me about **Java, DSA, Web Development**  
+- 📫 Reach me at: **nishakannane@gmail.com**  
+- ⚡ Fun fact: I love solving real-world problems through code!  
 
-- 🌱 I’m currently learning **Web development**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/927623BEC152](https://github.com/927623BEC152)
+### 🔭 Currently Working On  
+- 🚀 Java Fullstack Projects  
+- 📘 DBMS & SQL Projects  
 
-- 💬 Ask me about **Java**
+### 🌱 Currently Learning  
+- Web Development  
+- Data Structures & Algorithms  
 
-- 📫 How to reach me **nishakannanece@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XpCS-_S1-p7z-pIgtOfq_pRrOgfMbyeQ/view?usp=drivesdk](https://drive.google.com/file/d/1XpCS-_S1-p7z-pIgtOfq_pRrOgfMbyeQ/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/nishakannan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishakannan10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nisha22kannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nisha22kannan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="mailto:nishakannane@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=927623bec152&show_icons=true&locale=en&layout=compact" alt="927623bec152" /></p>
+### 🛠️ Languages & Tools  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=927623bec152&show_icons=true&locale=en" alt="927623bec152" /></p>
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishakannane&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishakannane&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishakannane&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements  
+- ✅ Built multiple **Java-based projects**  
+- ✅ Worked on **SQL & DBMS applications**  
+- ✅ Exploring **open-source contributions**  
+
+---
+
+⭐️ From [Nisha Kannan](https://github.com/nishakannane)  

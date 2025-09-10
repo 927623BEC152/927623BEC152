@@ -7,7 +7,7 @@
 - 💻 ECE prefinal-year student driven by a passion for building innovative software solutions. 
 - 🌱 Currently exploring **Java** and **SQL**  
 - 👯 Open to collaborate on **Java Projects** 
-- 📫 Reach me at: **nishakannan@gmail.com**  
+- 📫 Reach me at: **nishakannanece@gmail.com**  
 - ⚡ Fun fact: I love solving real-world problems through code!  
 
 ---

@@ -17,7 +17,8 @@
 - 📘 DBMS & SQL Projects  
 
 ### 🌱 Currently Learning  
-- Bootstrap
+- HTML
+- CSS
 - Javascript 
 
 ---

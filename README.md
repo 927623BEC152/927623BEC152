@@ -17,8 +17,8 @@
 - 📘 DBMS & SQL Projects  
 
 ### 🌱 Currently Learning  
-- Java 
-- Data Structures & Algorithms  
+- Bootstrap
+- Javascript 
 
 ---
 

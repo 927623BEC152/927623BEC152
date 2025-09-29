@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nisha Kannan</h1>
+<h1 align="center">Hi 👋, I'm Nisha K</h1>
 <h3 align="center">A passionate Fullstack Java Developer </h3>
 
 ---
@@ -17,6 +17,7 @@
 - 📘 DBMS & SQL Projects  
 
 ### 🌱 Currently Learning  
+- DSA
 - HTML
 - CSS
 - Javascript 

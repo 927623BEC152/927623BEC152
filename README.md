@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me  
-- 💻 ECE prefinal-year student driven by a passion for building innovative software solutions.  
-- 🌱 Currently exploring **Java**, **SQL**, and **Figma (UI/UX)**  
+- 💻 ECE final-year student driven by a passion for building innovative software solutions.  
+- 🌱 Currently exploring **Java**, **SQL**, and **PHP**  
 - 👯 Open to collaborate on **Java** and **UI/UX Design** Projects  
 - 📫 Reach me at: **nishakannanece@gmail.com**  
 - ⚡ Fun fact: I love solving real-world problems through code!  
@@ -21,7 +21,7 @@
 
 ### 🌱 Currently Learning  
 - DSA  
-- JavaScript  
+- PHP  
 - Figma (UI/UX Design)  
 
 ---
